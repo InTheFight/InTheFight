@@ -17,8 +17,8 @@ module.exports = {
         url: '/events',
       },
       {
-        name: 'Blogs',
-        url: '/blogs',
+        name: 'Blog',
+        url: '/blog',
       },
       {
         name: 'Resources',
@@ -82,3 +82,4 @@ module.exports = {
     }
   ],
 };
+
